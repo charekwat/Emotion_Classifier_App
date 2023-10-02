@@ -3,7 +3,6 @@ import pickle
 
 import streamlit as st
 import altair as alt
-import plotly.express as px
 
 # EDA Pkgs
 import pandas as pd
