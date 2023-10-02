@@ -8,7 +8,7 @@ import altair as alt
 import pandas as pd
 import numpy as np
 from datetime import datetime
-import plotly as px
+#import plotly as px
 
 # Utils
 import joblib
