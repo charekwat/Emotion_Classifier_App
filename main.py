@@ -3,12 +3,12 @@ import pickle
 
 import streamlit as st
 import altair as alt
-import plotly.express as px
 
 # EDA Pkgs
 import pandas as pd
 import numpy as np
 from datetime import datetime
+import plotly.express as px
 
 # Utils
 import joblib
