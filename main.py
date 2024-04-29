@@ -139,7 +139,7 @@ z-index:1;
 }
 </style>
 <div class="footer">
-<p>Developed by TAPIWA CHAREKWA & Fastino Mateteva</p>
+##<p>Developed by TAPIWA CHAREKWA & Fastino Mateteva</p>
 </div>
 """
 st.markdown(footer, unsafe_allow_html=True)
