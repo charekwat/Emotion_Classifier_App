@@ -138,9 +138,7 @@ text-align: center;
 z-index:1;
 }
 </style>
-<div class="footer">
 
-</div>
 """
 st.markdown(footer, unsafe_allow_html=True)
 
